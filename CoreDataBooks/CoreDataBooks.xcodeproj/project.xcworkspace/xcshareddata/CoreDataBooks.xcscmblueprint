@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "248b4cb3-22c4-b2ce-aa07-ce57b7db7bff",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "248b4cb3-22c4-b2ce-aa07-ce57b7db7bff" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "248b4cb3-22c4-b2ce-aa07-ce57b7db7bff" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6A8C2F26-D75A-43EB-892D-7E939000838C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "248b4cb3-22c4-b2ce-aa07-ce57b7db7bff" : "CoreDataBooks.git\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoreDataBooks",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/CoreDataBooks\/CoreDataBooks.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/hechaor%40163.com@github.com\/hechaor\/CoreDataBooks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "248b4cb3-22c4-b2ce-aa07-ce57b7db7bff"
+    }
+  ]
+}
